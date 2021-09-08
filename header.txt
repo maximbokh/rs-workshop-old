@@ -1,2 +1,5 @@
 some text
-changes from master --new changes
+changes from master 
+fkfjggffg
+
+Text from master:new changes
